@@ -1,0 +1,11 @@
+# 路线
+ - [9-1 / 开始 / Start](./start.md)
+ - [9-2 / 一个人 / Singular](./singular.md)
+ - [9-3 / 能源 / Power Source](./powersource.md)
+ - [9-4 / 铭记 / Remembered](./remembered.md)
+ - [9-5 / 视界线 / Event Horizon](./eventhorizon.md)
+ - [9-6 / 决心 / Determination](./determination.md)
+ - [9-7 / 倔强 / Stubbornness](./stubbornness.md)
+ - [9-8 / 和谐 / Reconciliation](./reconciliation.md)
+ - [9-9 / 再见 / Farewell](./farewell.md)
+ - [金限 / Gold Room](./goldroom.md)
