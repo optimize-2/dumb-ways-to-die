@@ -1,5 +1,3 @@
 # 笔记
 
-暂时还没有。
-
-暂时有了，去看路线那里，到时候会再改，把图补上。
+看这个学的路线：https://www.bilibili.com/video/BV1oJ411K7Du
