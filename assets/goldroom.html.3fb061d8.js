@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-335ccf9f","path":"/route/goldroom.html","title":"\u91D1\u9650","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1666695310000,"contributors":[{"name":"optimize-2","email":"2086297211@qq.com","commits":1}]},"filePathRelative":"route/goldroom.md"}');export{t as data};
